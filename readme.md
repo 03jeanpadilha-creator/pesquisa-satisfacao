@@ -1,4 +1,5 @@
 # Pesquisa de Satisfação - TudoWeb
+<img width="1295" height="673" alt="pesquisa-funcionando-resultados" src="https://github.com/user-attachments/assets/598973ad-5bde-4776-ad9f-cb15cb690f78" />
 
 ## Descrição
 
