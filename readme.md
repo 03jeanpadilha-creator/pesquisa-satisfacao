@@ -4,7 +4,7 @@
 
 Projeto desenvolvido em Python para realizar uma pesquisa de satisfação sobre o atendimento da empresa TudoWeb.
 
-O sistema coleta informações de 50 entrevistados e registra suas opiniões sobre o atendimento recebido, trazendo ao fim da coleta um resumo entre opiniões excelentes e ruins.
+O sistema coleta informações de 50 entrevistados e registra suas opiniões sobre o atendimento recebido, trazendo ao fim da coleta um resumo entre opiniões ótimas e péssimas.
 
 ## Funcionalidades
 
